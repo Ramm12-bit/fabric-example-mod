@@ -1,4 +1,4 @@
-package com.example;
+package com.sandwichdev;
 
 import net.fabricmc.api.ModInitializer;
 
